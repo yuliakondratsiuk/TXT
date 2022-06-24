@@ -1,0 +1,2 @@
+skills: theory testing, Postman, SQL, Fiddler, Jmeter, Charles, DevTool, Terminale, Git, ADB
+
