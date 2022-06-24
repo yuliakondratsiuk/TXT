@@ -1,1 +1,5 @@
-
+Bug_summary: What? Where? When?,
+Severity: Trivial,
+Steps to reproduce: "1. ... 2. ...,
+Actual Result: Fail,
+Expected Result: Done
